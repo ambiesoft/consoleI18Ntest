@@ -1,0 +1,5 @@
+build-consoleI18Ntest-*/
+.vs/
+Debug/
+Release/
+*.user
